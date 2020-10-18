@@ -2,12 +2,14 @@
 ## I am a SecDevOps Engineer and Cloud Automation Specialist.
 I have always had a passion for Automation and Application Development. Ever since a child intrigued by how things work, constantly tinkering and rebuilding my toys. Naturally this lead me from "hardware" to software engineering. My specialty is identifying business needs and delivering solutions.
 
-## Skills and Experience
+## Skills and Experience:
 
 * ⚛️ REACT JS
 * 📱REACT Native
 * 🖥 HTML, CSS, JS, Python, Jenkins, Ansible, Docker, Mongo
 * ∞ Security, Development, and Operations
+
+## About Me:
 
 - 🔭 I’m currently working on Automated Deployments for a multi-stage application. 
 - 🌱 I’m currently learning Cloud Automated MERN Stacks 
