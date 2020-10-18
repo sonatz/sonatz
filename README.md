@@ -6,7 +6,7 @@ I have always had a passion for Automation and Application Development. Ever sin
 
 ### ∞ - Security, Development, and Operations Specialist
 
-<img src='https://github.com/sonatz/sonatz/blob/main/terraform_logo.png' width='64' height='64' /> <img src='https://github.com/sonatz/sonatz/blob/main/jenkins_logo.png' width='64' height='64' /> <img src='https://github.com/sonatz/sonatz/blob/main/ansible_logo.png' width='64' height='64' /> <img src='https://github.com/sonatz/sonatz/blob/main/SonarQube_logo.png' width='64' height='64' /> <img src='https://github.com/sonatz/sonatz/blob/main/Jfrog_Logo.png' width='64' height='64' /> <img src='https://github.com/sonatz/sonatz/blob/main/Nagios_logo.png' width='64' height='64' />
+<img src='https://github.com/sonatz/sonatz/blob/main/terraform_logo.png' width='64' height='64' />  <img src='https://github.com/sonatz/sonatz/blob/main/jenkins_logo.png' width='64' height='64' />  <img src='https://github.com/sonatz/sonatz/blob/main/ansible_logo.png' width='64' height='64' />  <img src='https://github.com/sonatz/sonatz/blob/main/SonarQube_logo.png' width='64' height='64' />  <img src='https://github.com/sonatz/sonatz/blob/main/Jfrog_Logo.png' width='64' height='64' />  <img src='https://github.com/sonatz/sonatz/blob/main/Nagios_logo.png' width='64' height='64' />
 
 ### ☁️ - Cloud Technologies and Containerisation
 
