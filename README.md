@@ -2,18 +2,18 @@
 ## I am a SecDevOps Engineer and Cloud Automation Specialist.
 I have always had a passion for Automation and Application Development. Ever since a child intrigued by how things work, constantly tinkering and rebuilding my toys. Naturally this lead me from "hardware" to software engineering. My specialty is identifying business needs and delivering solutions.
 
-## Skills and Experience:
+## Core Skills:
 
 * ⚛️ REACT JS
 * 📱REACT Native
 * 🖥 HTML, CSS, JS, Python, Jenkins, Ansible, Docker, Mongo
 * ∞ Security, Development, and Operations Specialist
----
-### Identity and Access Management
-Starting midway through a project can be challenging; changing project culture is a whole other bag. As the Lead SecDevOps Engineer I implemented a robust and secure delivery pipeline for rapid testing and deployments. Through my assessments, experience, and demonstrations I gained stakeholder buy-in, changing the development lifecycle and project delivery culture. Consequently, this reduced the project's technical debt exponentially.
 
-### DEF7013
-As the Cloud Integration Specialist and DevOps Engineer I was responsible for the design and implementation of AWS infrastructure for multi-node applications. I managed a multitude of AWS services to provide training, development, and pre-production environments.
+## Experience:
+
+- Identity and Access Management - Department of Defence
+- DEF7013, Cloud Development and DevOps Lead - Department of Defence
+- Workflow Automation and Multi-platform Integration - Department of Decfence
 
 ## About Me:
 
