@@ -6,10 +6,7 @@ I have always had a passion for Automation and Application Development. Ever sin
 
 ### ∞ Security, Development, and Operations Specialist
 
-<img src='https://masonachatz.com/static/media/HTML_logo.664a8c00.png?__WB_REVISION__=664a8c00ef526bf33edf55808601d461' width='64' height='64' />
-<img src='https://masonachatz.com/static/media/HTML_logo.664a8c00.png?__WB_REVISION__=664a8c00ef526bf33edf55808601d461' width='64' height='64' />
-<img src='https://masonachatz.com/static/media/HTML_logo.664a8c00.png?__WB_REVISION__=664a8c00ef526bf33edf55808601d461' width='64' height='64' />
-<img src='https://masonachatz.com/static/media/HTML_logo.664a8c00.png?__WB_REVISION__=664a8c00ef526bf33edf55808601d461' width='64' height='64' />
+<img src='https://masonachatz.com/static/media/HTML_logo.664a8c00.png?__WB_REVISION__=664a8c00ef526bf33edf55808601d461' width='64' height='64' /> <img src='https://masonachatz.com/static/media/HTML_logo.664a8c00.png?__WB_REVISION__=664a8c00ef526bf33edf55808601d461' width='64' height='64' /> <img src='https://masonachatz.com/static/media/HTML_logo.664a8c00.png?__WB_REVISION__=664a8c00ef526bf33edf55808601d461' width='64' height='64' /> <img src='https://masonachatz.com/static/media/HTML_logo.664a8c00.png?__WB_REVISION__=664a8c00ef526bf33edf55808601d461' width='64' height='64' />
 
 ### ☁️ Cloud Technologies and Containerisation
 
