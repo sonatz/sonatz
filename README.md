@@ -9,7 +9,7 @@ I have always had a passion for Automation and Application Development. Ever sin
 * 📱REACT Native
 * 🖥 HTML, CSS, JS, Python, Jenkins, Ansible, Docker, Mongo
 
-<img src='https://masonachatz.com/static/media/HTML_logo.664a8c00.png?__WB_REVISION__=664a8c00ef526bf33edf55808601d461' />
+<img src='https://masonachatz.com/static/media/HTML_logo.664a8c00.png?__WB_REVISION__=664a8c00ef526bf33edf55808601d461' width='64' height='64' />
 
 
 ## Experience:
