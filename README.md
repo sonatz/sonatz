@@ -10,7 +10,7 @@ I have always had a passion for Automation and Application Development. Ever sin
 
 ### ☁️ - Cloud Technologies and Containerisation
 
-<img src='https://github.com/sonatz/sonatz/blob/main/aws_logo1.png' width='64' height='64' /> <img src='https://github.com/sonatz/sonatz/blob/main/docker_logo.png' width='64' height='64' /> <img src='https://github.com/sonatz/sonatz/blob/main/rhel_logo2.png' width='64' height='64' /> <img src='https://github.com/sonatz/sonatz/blob/main/kubernetes_logo1.png' width='64' height='64' /> <img src='https://github.com/sonatz/sonatz/blob/main/vmware_logo.png' width='64' height='64' /> <img src='https://github.com/sonatz/sonatz/blob/main/azure_logo.png' width='64' height='64' />
+<img src='https://github.com/sonatz/sonatz/blob/main/aws_logo1.png' width='64' height='64' />  <img src='https://github.com/sonatz/sonatz/blob/main/docker_logo.png' width='64' height='64' />  <img src='https://github.com/sonatz/sonatz/blob/main/rhel_logo2.png' width='64' height='64' />  <img src='https://github.com/sonatz/sonatz/blob/main/kubernetes_logo1.png' width='64' height='64' />  <img src='https://github.com/sonatz/sonatz/blob/main/vmware_logo.png' width='64' height='64' />  <img src='https://github.com/sonatz/sonatz/blob/main/azure_logo.png' width='64' height='64' />
 
 ### 🖥 - Application Development 
 
